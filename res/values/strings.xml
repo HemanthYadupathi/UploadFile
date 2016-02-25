@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">UploadFileSample</string>
+    <string name="upload">Upload Now</string>
+    <string name="camera">Open Camera</string>
+
+</resources>
